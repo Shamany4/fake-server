@@ -1,6 +1,6 @@
 {
-  "result": {
-    "cinema": {
+  "result": [
+    {
       "context_rubrics": [
         {
           "caption": "Кинотеатры"
@@ -1621,7 +1621,7 @@
         }
       ]
     },
-    "museums": {
+    {
       "context_rubrics": [
         {
           "caption": "Музеи"
@@ -3191,7 +3191,7 @@
         }
       ]
     },
-    "restaurants": {
+    {
       "context_rubrics": [
         {
           "caption": "Рестораны"
@@ -4817,7 +4817,7 @@
         }
       ]
     },
-    "bowling": {
+    {
       "context_rubrics": [
         {
           "caption": "Боулинги"
@@ -6221,7 +6221,7 @@
         }
       ]
     },
-    "billiard": {
+    {
       "context_rubrics": [
         {
           "caption": "Бильярдные"
@@ -7754,7 +7754,7 @@
         }
       ]
     },
-    "sauna": {
+    {
       "context_rubrics": [
         {
           "caption": "Бани, сауны"
@@ -9398,7 +9398,7 @@
         }
       ]
     },
-    "computerClub": {
+    {
       "context_rubrics": [
         {
           "caption": "Компьютерные клубы"
@@ -11083,7 +11083,7 @@
         }
       ]
     },
-    "parks": {
+    {
       "context_rubrics": [
         {
           "caption": "Парки"
@@ -12372,7 +12372,7 @@
         }
       ]
     },
-    "cafe": {
+    {
       "context_rubrics": [
         {
           "caption": "Кафе"
@@ -14040,7 +14040,7 @@
         }
       ]
     },
-    "dolphinarium": {
+    {
       "context_rubrics": [
         {
           "caption": "Дельфинарии"
@@ -14217,7 +14217,7 @@
         }
       ]
     },
-    "aquapark": {
+    {
       "context_rubrics": [
         {
           "caption": "Аквапарки"
@@ -14727,7 +14727,7 @@
         }
       ]
     },
-    "shopping": {
+    {
       "context_rubrics": [
         {
           "caption": "Торговые центры"
@@ -16265,7 +16265,7 @@
         }
       ]
     },
-    "hookah": {
+    {
       "context_rubrics": [
         {
           "caption": "Кальянные"
@@ -17798,7 +17798,7 @@
         }
       ]
     },
-    "clubs": {
+    {
       "context_rubrics": [
         {
           "caption": "Ночные клубы"
@@ -19309,7 +19309,7 @@
         }
       ]
     },
-    "library": {
+    {
       "context_rubrics": [
         {
           "caption": "Библиотеки"
@@ -20977,7 +20977,7 @@
         }
       ]
     },
-    "fastFood": {
+    {
       "context_rubrics": [
         {
           "caption": "Fast Food"
@@ -22678,5 +22678,5 @@
         }
       ]
     }
-  }
+  ]
 }
